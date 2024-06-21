@@ -7,7 +7,7 @@ public class HelloJava {
 		//	sysout 
 		System.out.println("choijihown");
 		
-		//	수정~
+		//	수정~~~
 		
 	}
 	
